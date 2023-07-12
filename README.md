@@ -1,6 +1,6 @@
 ### Generative Artificial Intelligence Engineering Notebooks
 
-The project provides Generative Artificial Intelligence engineering notebook samples. The project demonstrates how to deploy Amazon SageMaker JumpStart SDK and Falcon 40B Instruct language model to apply different levels of cutomizations such as decoding strategies and Retrieval-Augmented Generation (RAG).
+This repository project provides Generative Artificial Intelligence engineering notebook samples. It demonstrates how to deploy Amazon SageMaker JumpStart SDK and Falcon 40B Instruct language model to apply different levels of cutomizations such as decoding strategies and Retrieval-Augmented Generation (RAG).
 
 The following Amazon SageMaker Studio notebooks are available in this repository:
 - `SM-JumpStart-Decoding-Falcon40B-G5.ipynb` demonstrates how to generate text using different decoding strategies with [Amazon SageMaker JumpStart SDK](https://sagemaker.readthedocs.io/en/v2.82.0/overview.html#use-prebuilt-models-with-sagemaker-jumpstart) and [Falcon-40B-Instruct model](https://huggingface.co/tiiuae/falcon-40b-instruct).
