@@ -1,6 +1,6 @@
 ### Large Language Model Customization Notebooks
 
-This repository provides a collection of Generative AI engineering notebooks that demonstrate how to use Amazon SageMaker JumpStart SDK to customize Large Language Models (LLMs) inference. The notebooks show using Falcon model variants how to apply basic levels of prediction customization such as: decoding strategies, prompting techniques, and Retrieval-Augmented Generation. The notebooks are designed to be easy to deploy and follow, making them a good resource for learning about LLM customization.
+This repository provides a collection of Generative AI engineering notebooks that demonstrate how to use Amazon SageMaker JumpStart SDK to customize Large Language Models (LLMs). The notebooks show using the Falcon model variants how to apply basic levels of inference customization such as: decoding strategies, prompting techniques, and Retrieval-Augmented Generation. The notebooks are designed to be easy to deploy and follow, making them a good resource for learning about LLM inference customization.
 
 The following Amazon SageMaker Studio notebooks are available in this repository:
 - `LLM-Custom-Decoding-Falcon40B-G5.ipynb` demonstrates how to generate text using different decoding strategies with [Amazon SageMaker JumpStart SDK](https://sagemaker.readthedocs.io/en/v2.82.0/overview.html#use-prebuilt-models-with-sagemaker-jumpstart) and [Falcon-40B-Instruct model](https://huggingface.co/tiiuae/falcon-40b-instruct).
